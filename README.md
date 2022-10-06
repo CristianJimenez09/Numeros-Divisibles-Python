@@ -1,5 +1,5 @@
 # Divisor De Numero
-### Cual es la cantidad de divisores que puede tener nuestro numero 
+### _Cual es la cantidad de divisores que puede tener nuestro numero_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
